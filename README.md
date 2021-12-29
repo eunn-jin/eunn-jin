@@ -4,15 +4,25 @@
 
 ### 🌱 Learning now
 ----------------------
-<img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>c</a>
+<img src = "https://img.shields.io/badge/Unity-blueviolet?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 
-### Skills
+### 🖋️ Skills
 ---------------
+<img src = "https://img.shields.io/badge/C-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/C++-orange?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/CSS3-brightgreen?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/HTML5-lightgrey?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/JavaScript-ff69b4?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/Java-important?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 
-### Projects
+<img src = "https://img.shields.io/badge/Vue js-9cf?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+
+### 📕 Projects
 --------------
 - [MNM : 하우스 메이트 매칭, 공동 생활 관리 서비스 제공 플랫폼](https://github.com/MeetNMate)
 - ARTA: 사용자 맞춤형 온라인 전시회 플랫폼
+
+
 
 <!--
 **eunn-jin/eunn-jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
