@@ -3,16 +3,16 @@
 
 
 ## 🌱 Learning now
-<img src = "https://img.shields.io/badge/Unity-blueviolet?style=flat-square&logo=UNITY&logoColor=black"/></a>
+<img src = "https://img.shields.io/badge/Unity-blueviolet?style=flat-square&logo=UNITY&logoColor=white"/></a>
 
 
 ## 🖋️ Skills
-<img src = "https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=black"/></a>
-<img src = "https://img.shields.io/badge/C++-orange?style=flat-square&logo=C%2B%2B&logoColor=black"/></a>
-<img src = "https://img.shields.io/badge/CSS3-brightgreen?style=flat-square&logo=CSS3&logoColor=black"/></a>
-<img src = "https://img.shields.io/badge/HTML5-lightgrey?style=flat-square&logo=HTML5&logoColor=black"/></a>
-<img src = "https://img.shields.io/badge/JavaScript-ff69b4?style=flat-square&logo=JAVASCRIPT&logoColor=black"/></a>
-<img src = "https://img.shields.io/badge/Java-important?style=flat-square&logo=JAVA&logoColor=black"/></a>
+<img src = "https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/C++-orange?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/CSS3-brightgreen?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/HTML5-lightgrey?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/JavaScript-ff69b4?style=flat-square&logo=JAVASCRIPT&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/Java-important?style=flat-square&logo=JAVA&logoColor=white"/></a>
 
 
 ## 📕 Projects
