@@ -19,7 +19,7 @@
 - [MNM : 하우스 메이트 매칭, 공동 생활 관리 서비스 제공 플랫폼](https://github.com/MeetNMate)
 - WhoDunIt: 추리게임
 - [ARTA: 사용자 맞춤형 온라인 전시회 플랫폼](https://github.com/eunn-jin/project-arta-django)
-- WireSSU: 교육용 패킷 스니핑 가시화 서비스
+- [WireSSU: 교육용 패킷 스니핑 가시화 서비스](https://github.com/eunn-jin/Project-WireSSU-java)
 - Book!ng: 패킷 통신을 이용한 사물함 예약 서비스
 
 <!--
