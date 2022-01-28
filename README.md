@@ -4,7 +4,7 @@
 
 ## 🌱 Learning now
 <img src = "https://img.shields.io/badge/Unity-blueviolet?style=flat-square&logo=UNITY&logoColor=white"/></a>
-
+<img src = "https://img.shields.io/badge/C#-00599C?style=flat-square&logo=C&logoColor=white"/></a>
 
 ## 🖋️ Skills
 <img src = "https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>
