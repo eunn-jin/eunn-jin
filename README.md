@@ -16,7 +16,7 @@
 
 ## 📕 Projects
 - [MNM : 하우스 메이트 매칭, 공동 생활 관리 서비스 제공 플랫폼](https://github.com/MeetNMate)(2021)
-- [WhoDunIt: 추리게임]()(2021)
+- [WhoDunIt: 추리게임](https://github.com/eunn-jin/Project_Whodunit)(2021)
 - [ARTA: 사용자 맞춤형 온라인 전시회 플랫폼](https://github.com/eunn-jin/project-arta-django)(2021)
 - [Book!ng: 패킷 통신을 이용한 사물함 예약 서비스](https://github.com/eunn-jin/Project-Booking)(2021)
 - [WireSSU: 교육용 패킷 스니핑 가시화 서비스](https://github.com/eunn-jin/Project-WireSSU-java)(2019)
